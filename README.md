@@ -1,9 +1,4 @@
-<img src="https://github.com/beingvikasbhadu/fyle-interview-intern-backend-code/blob/master/test_coverage.PNG">
-<br>
-<br>
-<img src="https://github.com/beingvikasbhadu/fyle-interview-intern-backend-code/blob/master/test_cases.PNG">
-<br>
-<br>
+
 
 # Fyle Backend Challenge
 
